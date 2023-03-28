@@ -37,9 +37,9 @@ export const AboutSection = () => {
         style={{ left: "-60%", zIndex: 10, opacity: 0.85 }}
       />
 
-      <div className="flex flex-col gap-2 justify-center items-start ">
-        <h1 className="text-6xl font-bold">What We&apos;re</h1>
-        <h1 className="text-6xl font-bold">All About</h1>
+      <div className="flex flex-col gap-2 justify-center items-start text-4xl md:text-6xl font-bold ">
+        <h1>What We&apos;re</h1>
+        <h1>All About</h1>
       </div>
 
       <div className="flex flex-col md:flex-row gap-14 justify-between items-start relative">

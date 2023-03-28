@@ -24,7 +24,7 @@ export default function Home() {
           <div className="px-4 md:px-24 flex items-center justify-start gap-4 md:gap-48">
             <div className="relative w-36 h-36">
               <Image
-                src={"/logo.svg"}
+                src={"/weighttogo_logo.svg"}
                 className="w-full h-full"
                 fill
                 alt={"Weight To Go Logo"}

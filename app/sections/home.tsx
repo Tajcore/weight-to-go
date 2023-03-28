@@ -16,11 +16,11 @@ export const HomeContent = () => {
         and lifestyle, a no-deprivation, enjoyable approach to lasting weight
         loss.
       </p>
-      <div className="flex flex-row justify-start items-center gap-3">
-        <button className="hover:bg-seafoam border-seafoam border-2 hover:text-white transition-all duration-75 ease-linear text-seafoam px-8 py-2 rounded-md font-semibold text-lg">
+      <div className="flex flex-row justify-start items-center gap-3 font-semibold text-xs md:text-lg ">
+        <button className="hover:bg-seafoam border-seafoam border-2 hover:text-white transition-all duration-75 ease-linear text-seafoam px-8 py-2 rounded-md ">
           Subscribe Now
         </button>
-        <button className="hover:bg-seafoam border-seafoam border-2 hover:text-white transition-all duration-75 ease-linear text-seafoam px-8 py-2 rounded-md font-semibold text-lg">
+        <button className="hover:bg-seafoam border-seafoam border-2 hover:text-white transition-all duration-75 ease-linear text-seafoam px-8 py-2 rounded-md">
           Learn More
         </button>
       </div>
